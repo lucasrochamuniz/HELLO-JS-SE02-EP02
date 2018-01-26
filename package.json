@@ -1,0 +1,20 @@
+{
+  "name": "lrm-aula-02",
+  "version": "1.0.0",
+  "description": "��A\u0000u\u0000l\u0000a\u0000 \u00000\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrochamuniz/HELLO-JS-SE02-EP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrochamuniz/HELLO-JS-SE02-EP02/issues"
+  },
+  "homepage": "https://github.com/lucasrochamuniz/HELLO-JS-SE02-EP02#readme"
+}
